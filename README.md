@@ -24,4 +24,4 @@ Database: PostgreSQL.<br/>
 5. Configure the database connection in the `index.js` application (change database, password with your own values).
 6. Install node_modules using `npm install`.
 7. Run the `index.js` using `node index.js`.
-8. Open the **Family-Travel-Tracker** in your web browser (localhost:3000) to start playing.
+8. Open the **Family-Travel-Tracker** in your web browser (localhost:3000).
