@@ -3,7 +3,7 @@ The Family Travel Tracker is a web application designed to help families keep tr
 
 ## Features:
   ### Individual Records:
-  - Each family member has their own profile where they can log in and maintain a record of the countries they have visited.
+  - Each family member has their own profile where they can maintain a record of the countries they have visited.
   - Users can add new countries they have visited and update their travel history as needed.
   ### Visual Representation:
   - The application provides an interactive world map that displays the countries visited by each family member.
